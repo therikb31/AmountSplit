@@ -3,6 +3,8 @@ An expense sharing application is where you can add your expenses and split it a
 
 This application is bulit on Java using the SpringBoot framework to automate trivial tasks like database operations. 
 
+## Author
+- [Rik Biswas](https://github.com/therikb31)
 
 
 ## Requirements
